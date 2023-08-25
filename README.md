@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo"  />
 </div>
 
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chavi-kothari-b007a11a5/" target="_blank">
@@ -64,6 +65,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
 ###
 
 <div align="left">
