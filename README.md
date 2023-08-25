@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Chavi Kothari and I'm a Full Stack Web Developer, fresher</h2>
+<h2 align="left">Hello🙋‍♀️ I am Chavi, Kothari</h2>
+
+###
+
+<p align="left">- 🙍🏽‍♀️ I'm a Web Developer, fresher<br>- ✨ Working on my skills and projects.<br>- 📫 Mail me on:   [kotharichavi1827@gmail.com](kotarichavi1827@gmail.com)</p>
 
 ###
 
@@ -63,6 +67,15 @@
 </div>
 ###
 
-<p align="left">Bonjour!<br>I am Chavi Kothari, an aspiring Full Stack Web Developer eager to leverage my skills and passion for web development. Seeking an opportunity to contribute, learn, and grow professionally while achieving personal goals. Committed to continuous improvement and expanding expertise.</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chavikothari2711&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&custom_title=Most Languages used" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chavikothari2711&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/chavikothari2711/chavikothari2711/output/snake.svg" alt="Snake animation" />
 
 ###
