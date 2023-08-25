@@ -46,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chavi-kothari-b007a11a5/" target="_blank">
