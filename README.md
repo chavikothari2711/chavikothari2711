@@ -4,6 +4,9 @@
 
 <p align="left">- 🙍🏽‍♀️ I'm a Web Developer, fresher<br>- ✨ Working on my skills and projects.<br>- 📫 Mail me on:   [kotharichavi1827@gmail.com](kotarichavi1827@gmail.com)</p>
 
+[![website](https://img.shields.io/badge/MyPortfolio-chavi-000000?style=round-square&logo=google-chrome&logoColor=fff&labelColor=61677A
+)](https://chavikothari2711.github.io/Portfolio/)
+
 ###
 
 <img align="right" height="200" src="https://media.istockphoto.com/id/1342829261/vector/software-developer-semi-flat-color-vector-character.jpg?s=612x612&w=0&k=20&c=RRatI_ThaXwbHUde2PpXo_Fz-VThPWbkRsfAcDqDgnQ="  />
@@ -68,11 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chavikothari2711&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&custom_title=Most Languages used" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=chavikothari2711&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chavikothari2711/chavikothari2711/output/snake.svg" alt="Snake animation" />
 
 ###
