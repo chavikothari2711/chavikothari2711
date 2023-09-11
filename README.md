@@ -73,3 +73,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/chavikothari2711/chavikothari2711/output/snake.svg" alt="Snake animation" />
+
+###
