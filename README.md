@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🙍🏽‍♀️ I'm a Web Developer, fresher<br>- ✨ Working on my skills and projects.<br>- 📫 Mail me on:   [kotharichavi1827@gmail.com](kotarichavi1827@gmail.com)</p>
+<p align="left">- 🙍🏽‍♀️ Full Stack Developer<br>- ✨ Working on my skills and projects.<br>- 📫 Mail me on:   [kotharichavi1827@gmail.com](kotarichavi1827@gmail.com)</p>
 
 [![website](https://img.shields.io/badge/MyPortfolio-chavi-000000?style=round-square&logo=google-chrome&logoColor=fff&labelColor=61677A
 )](https://chavikothari2711.github.io/Portfolio/)
@@ -19,6 +19,8 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/007ACC" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
   <img width="12" />
@@ -39,8 +41,6 @@
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/atom/66595C" height="30" alt="atom logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/codepen/000000" height="30" alt="codepen logo"  />
 </div>
