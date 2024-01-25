@@ -1,4 +1,4 @@
-<h2 align="left">Hello🙋‍♀️ I am Chavi, Kothari</h2>
+<h2 align="left">Hello🙋‍♀️ I am Chavi Kothari</h2>
 
 ###
 
