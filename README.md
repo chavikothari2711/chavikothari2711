@@ -9,8 +9,7 @@
 )](https://chavikothari2711.github.io/Portfolio/)
 
 ###
-<img align="right" height="200" src="https://media.istockphoto.com/id/1342829261/vector/software-developer-semi-flat-color-vector-character.jpg?s=612x612&w=0&k=20&c=RRatI_ThaXwbHUde2PpXo_Fz-VThPWbkRsfAcDqDgnQ="  />
-
+<img align="right" height="200" src="https://github.com/chavikothari2711/chavikothari2711/assets/61689704/ff503e62-1095-4b67-b7b7-5589bd6058e8"  />
 
 ###
 
