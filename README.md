@@ -43,6 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/codepen/000000" height="30" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/#00C4CC" height="30" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/#00C4CC" height="30" alt="codepen logo"  />
 </div>
 
 ###
