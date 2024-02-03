@@ -44,9 +44,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/codepen/000000" height="30" alt="codepen logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/#00C4CC" height="30" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/#00C4CC" height="30" alt="codepen logo"  />
+  <img src="https://cdn.simpleicons.org/canva/#00C4CC" height="30" alt="canva logo"  />
 </div>
 
 ###
