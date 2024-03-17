@@ -5,7 +5,7 @@
 <p align="left">
 - 🙍🏽‍♀️ Full Stack Developer<br>
 - ✨ Working on my skills and projects.<br>
-- 📫 Mail me on: [kotharichavi1827@gmail.com](mailto:kotarichavi1827@gmail.com)
+- <a href="mailto:kotharichavi1827@gmail.com">📫 Mail me on: kotharichavi1827@gmail.com</a>
 </p>
 
 
