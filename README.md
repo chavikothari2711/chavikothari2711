@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">- 🙍🏽‍♀️ Full Stack Developer<br>- ✨ Working on my skills and projects.<br>- 📫 Mail me on:   [kotharichavi1827@gmail.com](kotarichavi1827@gmail.com)</p>
+<p align="left">
+- 🙍🏽‍♀️ Full Stack Developer<br>
+- ✨ Working on my skills and projects.<br>
+- 📫 Mail me on: [kotharichavi1827@gmail.com](mailto:kotarichavi1827@gmail.com)
+</p>
 
 
 [![website](https://img.shields.io/badge/MyPortfolio-chavi-000000?style=round-square&logo=google-chrome&logoColor=fff&labelColor=61677A
